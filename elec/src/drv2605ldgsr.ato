@@ -66,4 +66,3 @@ module DRV2605:
     vdd_cap.value = 1uF +/- 20%
     vdd_cap.package = "0402"
     vdd_cap.power ~ ic.power_vdd
-
